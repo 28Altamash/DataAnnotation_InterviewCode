@@ -34,3 +34,8 @@ Specifications
     1. Takes in one argument, which is a string containing the URL for the Google Doc with the input data, AND
 
     2. When called, prints the grid of characters specified by the input data, displaying a graphic of correctly oriented uppercase letters.
+
+
+To verify that your code works, please run your function with this URL as its argument:
+
+https://docs.google.com/document/d/e/2PACX-1vQGUck9HIFCyezsrBSnmENk5ieJuYwpt7YHYEzeNJkIb9OSDdx-ov2nRNReKQyey-cwJOoEKUhLmN9z/pub
